@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shreyanshsaagar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_X4kceE4Twx18NpZqa5-V51ki-aFvtG3/view?usp=drivesdk](https://drive.google.com/file/d/1_X4kceE4Twx18NpZqa5-V51ki-aFvtG3/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_X4kceE4Twx18NpZqa5-V51ki-aFvtG3/view?usp=drivesdk](https://drive.google.com/file/d/1_QWki9eryk9f_zH6vX0jn_Otq7RTUM5V/view?usp=drivesdk)
 
 - ⚡ Fun fact **I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.**
 
