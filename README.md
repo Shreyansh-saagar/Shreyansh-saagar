@@ -3,11 +3,10 @@
 <h3 align="center">A skilled and highly focused Computer Science student utilizing skills in the field of UI/UX design, front-end development and graphic designing.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh-saagar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh-saagar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **Web Dev and UI-UX**
 
