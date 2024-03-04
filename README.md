@@ -1,34 +1,125 @@
-![1](https://github.com/Shreyansh-saagar/Shreyansh-saagar/assets/92909979/097bfb9e-3310-4655-aa0a-2a431b3b38d0)
-<h1 align="center">Hi 👋, I'm Shreyansh Saagar</h1>
-<h3 align="center">A skilled and highly focused Computer Science student utilizing skills in the field of UI/UX design, front-end development and graphic designing.</h3>
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQFTzCq6hZXOYw/profile-displaybackgroundimage-shrink_350_1400/0/1666853752228?e=1715212800&v=beta&t=T3vcR6T8r3M5eRk_7hs_oUH3HJCrGLyQ5Ma8blJPzpM"  />
+</div>
+
+###
+
+<h2 align="center">Hi 👋, I'm Shreyansh Saagar</h2>
+
+###
+
+<p align="center">A skilled and highly focused Computer Science Student who is looking to utilize his interpersonal skills to help achieve business goals. Excellent analytical and developmental skills for a SDE role with flare of UI designing. A Quick learner and problem solver with good Communication skills.<br><br>⚡ Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
+
+###
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working on **MERN** projects.
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js**.
 
-- 👯 I’m looking to collaborate on **Web Dev and UI-UX**
+- 👯 I’m willing to collaborate on building communities, and **open-source** projects.
 
-- 💬 Ask me about **UI-UX**
+- 💬 Ask me about **UI-UX** & **WEB-DEV**.
+
+- 😄 Pronouns: He/Him.
 
 - 📫 How to reach me **shreyanshsaagar@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/190p9oHfT-0_LcVKju3HnEJlttjsiMw1j/view?usp=drive_link)
 
-- ⚡ Fun fact **I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.**
+<h3 align="left">👨🏽‍💻 Recent Works</h3>
+<a href="[https://github.com/](https://github.com/Shreyansh-saagar/Shrey-Cars-Cruise-Your-Dream)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh-saagar&repo=Shrey-Cars-Cruise-Your-Dream&theme=buefy" />
+</a>
+<a href="https://github.com/Shreyansh-saagar/E-Commerce-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh-saagar&repo=E-Commerce-API&theme=buefy" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shreyansh saagar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="shreyansh saagar" height="40" width="40" /></a>
-<a href="https://instagram.com/iamshreyansh77_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="iamshreyansh77_" height="40" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://vistaran-tech.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/05/13104926/nodejs-logo.png" alt="Node.js" width="40" height="40"/> </a>&nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp; <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a> &nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="css3" width="40" height="45"/> </a> &nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp; <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>&nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a>&nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/> </a>&nbsp; <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/2560px-Oracle_Corporation_logo.svg.png" alt="oracle" width="45" height="40"/> </a>&nbsp; <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZNC7udfpdGewxHcfRoG6va1AwRLVc_NxKMeiTHPqglcMOBt9n0N7PNkrK4e3RImfEqNcrq30hHE&usqp=CAU&ec=48600113" alt="pandas" width="40" height="40"/> </a> &nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>&nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" alt="python" width="40" height="40"/> </a> &nbsp; <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>&nbsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h3 align="left">🖥️ Tech Stack</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansh-saagar&show_icons=true&locale=en&layout=compact" alt="shreyansh-saagar" /></p> <br>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-saagar&show_icons=true&locale=en" alt="shreyansh-saagar" /></p> <br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+</div>
+
+###
+
+<h3 align="left">📱 Connect With Me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/shreyansh-saagar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/iamshreyansh77_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:shreyanshsaagar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">📈 Github Stats</h3>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansh-saagar&show_icons=true&locale=en&layout=compact&theme=buefy" alt="shreyansh-saagar" /></p> <br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-saagar&show_icons=true&locale=en&theme=buefy" alt="shreyansh-saagar" /></p> <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-saagar&" alt="shreyansh-saagar" /></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theabbie&theme=buefy)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=buefy)
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=theabbie)
