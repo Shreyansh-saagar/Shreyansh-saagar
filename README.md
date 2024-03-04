@@ -29,9 +29,9 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/190p9oHfT-0_LcVKju3HnEJlttjsiMw1j/view?usp=drive_link)
 
 <h3 align="left">👨🏽‍💻 Recent Works</h3>
-<div style="display:flex; margin-left:25px">
+<div style="display:flex; width:100vw;">
   <a href="[https://github.com/](https://github.com/Shreyansh-saagar/Shrey-Cars-Cruise-Your-Dream)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh-saagar&repo=Shrey-Cars-Cruise-Your-Dream&theme=buefy" />
+  <img align="center" style="margin-left:25px" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh-saagar&repo=Shrey-Cars-Cruise-Your-Dream&theme=buefy" />
 </a>
 <a href="https://github.com/Shreyansh-saagar/E-Commerce-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh-saagar&repo=E-Commerce-API&theme=buefy" />
@@ -120,9 +120,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-saagar&show_icons=true&locale=en&theme=buefy" alt="shreyansh-saagar" /></p> <br>
 </div>
 
+<div style="display:flex;">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-saagar&" alt="shreyansh-saagar" /></p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyansh-saagar&theme=buefy)
+</div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyansh-saagar&theme=buefy)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyansh-saagar&theme=buefy)
 
