@@ -11,7 +11,7 @@
 <p align="center">A skilled and highly focused Computer Science Student who is looking to utilize his interpersonal skills to help achieve business goals. Excellent analytical and developmental skills for a SDE role with flare of UI designing. A Quick learner and problem solver with good Communication skills.<br><br>⚡ Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
 
 ###
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th?id=OIP.xTKmmll498-y_Ctqsk68_gAAAA&w=155&h=155&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
+<img align="right" alt="Coding" width="400" height="400" src="https://th.bing.com/th?id=OIP.xTKmmll498-y_Ctqsk68_gAAAA&w=155&h=155&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
 
 
 - 🔭 I’m currently working on **MERN** projects.
@@ -116,7 +116,7 @@
 <h3 align="left">📈 Github Stats</h3>
 
 
-<a href="https://github.com/shreyansh-saagar/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-saagar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shreyansh's github stats" /></a> | <a href="https://github.com/shreyansh-saagar/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-saagar&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/shreyansh-saagar/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-saagar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shreyansh's github stats" /></a>  <a href="https://github.com/shreyansh-saagar/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-saagar&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-saagar&" alt="shreyansh-saagar" /></p>
