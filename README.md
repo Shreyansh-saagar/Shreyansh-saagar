@@ -114,17 +114,14 @@
 <h3 align="left">📈 Github Stats</h3>
 
 
-<div style="display:flex;">
-<p style="margin-left:25px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansh-saagar&show_icons=true&locale=en&layout=compact&theme=buefy" alt="shreyansh-saagar" /></p>
+<a href="https://github.com/shreyansh-saagar/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-saagar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shreyansh's github stats" /></a> | <a href="https://github.com/shreyansh-saagar/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-saagar&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-saagar&show_icons=true&locale=en&theme=buefy" alt="shreyansh-saagar" /></p> <br>
-</div>
 
-<div style="display:flex;">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-saagar&" alt="shreyansh-saagar" /></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyansh-saagar&theme=buefy)
-</div>
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyansh-saagar&theme=buefy)
 
 
