@@ -11,7 +11,7 @@
 <p align="center">A skilled and highly focused Computer Science Student who is looking to utilize his interpersonal skills to help achieve business goals. Excellent analytical and developmental skills for a SDE role with flare of UI designing. A Quick learner and problem solver with good Communication skills.<br><br>⚡ Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
 
 ###
-<img align="right" alt="Coding" width="300" height="300" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
+<img align="right" alt="Coding" width="300" height="280" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
 
 
 - 🔭 I’m currently working on **MERN** projects.
@@ -29,14 +29,13 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/190p9oHfT-0_LcVKju3HnEJlttjsiMw1j/view?usp=drive_link)
 
 <h3 align="left">👨🏽‍💻 Recent Works</h3>
-<div style="display:flex; width:100vw;">
-  <a href="[https://github.com/](https://github.com/Shreyansh-saagar/Shrey-Cars-Cruise-Your-Dream)">
-  <img align="center" style="margin-left:25px" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh-saagar&repo=Shrey-Cars-Cruise-Your-Dream&theme=buefy" />
+<a href="https://github.com/Shreyansh-saagar/Shrey-Cars-Cruise-Your-Dream" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-saagar&repo=Shrey-Cars-Cruise-Your-Dream&theme=buefy" />
 </a>
-<a href="https://github.com/Shreyansh-saagar/E-Commerce-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh-saagar&repo=E-Commerce-API&theme=buefy" />
+<a href="https://github.com/Shreyansh-saagar/E-Commerce-API" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-saagar&repo=E-Commerce-API&theme=buefy" />
 </a>
-</div>
+<div align="center">
 
 
 ###
@@ -70,14 +69,14 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
   <img width="25" />
+</div>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="25" />
-</div>
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
@@ -114,16 +113,22 @@
 ###
 
 <h3 align="left">📈 Github Stats</h3>
+<!-- <a href="https://github.com/shreyansh-saagar/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-saagar&layout=compact&theme=buefy&hide_border=true" /></a>  -->
 
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyansh-saagar&theme=buefy) -->
 
-<a href="https://github.com/shreyansh-saagar/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-saagar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shreyansh's github stats" /></a>  <a href="https://github.com/shreyansh-saagar/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-saagar&layout=compact&theme=buefy&hide_border=true" /></a> 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-saagar&theme=buefy" alt="shreyansh-saagar" /></p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyansh-saagar&theme=buefy)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyansh-saagar&theme=buefy)
-
-
+<table>
+  <tr>
+      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-saagar&theme=buefy" alt="shreyansh-saagar" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-saagar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shreyansh's github stats"/></td>    
+  </tr>
+</table>
+<div align="center">
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyansh-saagar&theme=buefy" alt="shreyansh-saagar" /></p>
+  </div>
+<table>
+    <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-saagar&hide_progress=true" alt="shreyansh-saagar" style="width:85%" /></td>
+     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyansh-saagar&theme=buefy" style="width:60%" alt="shreyansh-saagar" />
+  </tr>
+</table>
