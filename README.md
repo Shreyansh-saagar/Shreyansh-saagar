@@ -11,7 +11,7 @@
 <p align="center">A skilled and highly focused Computer Science Student who is looking to utilize his interpersonal skills to help achieve business goals. Excellent analytical and developmental skills for a SDE role with flare of UI designing. A Quick learner and problem solver with good Communication skills.<br><br>⚡ Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
 
 ###
-<img align="right" alt="Coding" width="300" height="280" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
+<img align="right" alt="Coding" width="280" height="250" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
 
 
 - 🔭 I’m currently working on **MERN** projects.
@@ -70,6 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
   <img width="25" />
 </div>
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
   <img width="25" />
