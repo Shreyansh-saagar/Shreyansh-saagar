@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **shreyanshsaagar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/190p9oHfT-0_LcVKju3HnEJlttjsiMw1j/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aKz7IOTBKU4PW7JrUJwwgXWXQY_9FV9A/view?usp=drive_link)
 
 <h3 align="left">👨🏽‍💻 Recent Works</h3>
 <a href="https://github.com/Shreyansh-saagar/Shrey-Cars-Cruise-Your-Dream" target="_blank">
