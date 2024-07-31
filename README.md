@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">A skilled and highly focused Computer Science Student who is looking to utilize his interpersonal skills to help achieve business goals. Excellent analytical and developmental skills for a SDE role with flare of UI designing. A Quick learner and problem solver with good Communication skills.<br><br>⚡ Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
+<p align="center">Experienced Software Developer with a strong background in UI design, proficient in Angular 17, NestJs, Typescript, and Node.js. Proven track record in developing engaging web applications that enhance user interaction and productivity. Skilled in graphic design, cloud computing, and agile methodologies. Successfully designed and implemented projects like Youth Verse and Shrey Cars, showcasing expertise in modern web development and seamless data integration. Seeking to leverage technical and creative expertise in a dynamic development role. A Quick learner and problem solver with good Communication skills.<br><br>⚡ Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
 
 ###
 <img align="right" alt="Coding" width="280" height="250" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
