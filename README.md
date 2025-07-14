@@ -1,12 +1,16 @@
 
 
 ###
+<h1 align="center">Hi, I'm Shreyansh Saagar 👋</h1>
 
-<h2 align="center">Hi 👋, I'm Shreyansh Saagar</h2>
+<p align="center">
+  🚀 AI-Powered Product Developer • Full-Stack Engineer • GenAI Enthusiast  
+</p>
 
 ###
 
-<p align="center">Experienced Software Developer with a strong background in UI design, proficient in Angular 17, NestJs, Typescript, and Node.js. Proven track record in developing engaging web applications that enhance user interaction and productivity. A Quick learner and problem solver with good Communication skills.<br><br>⚡ Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
+<p align="center">I'm a Software Developer passionate about building **intelligent, user-centric SaaS platforms** that solve real-world problems.  
+Currently working at **Byond Boundrys**, I specialize in integrating **GenAI tools** like OpenAI, LangChain, Gemini, and vector databases into scalable products to reduce user friction and supercharge automation.<br>With a solid foundation in **Angular, Node.js, and FastAPI**, I'm continuously exploring ways to make products smarter, faster, and more intuitive.<br><br>⚡ Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
 
 ###
 <img align="right" alt="Coding" width="280" height="250" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
