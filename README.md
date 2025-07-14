@@ -1,7 +1,7 @@
 
 
 ###
-<h1 align="center">Hi, I'm Shreyansh Saagar 👋</h1>
+<h2 align="center">Hi, I'm Shreyansh Saagar 👋</h2>
 
 <p align="center">
   🚀 AI-Powered Product Developer • Full-Stack Engineer • GenAI Enthusiast  
@@ -9,8 +9,8 @@
 
 ###
 
-<p align="center">I'm a Software Developer passionate about building **intelligent, user-centric SaaS platforms** that solve real-world problems.  
-Currently working at **Byond Boundrys**, I specialize in integrating **GenAI tools** like OpenAI, LangChain, Gemini, and vector databases into scalable products to reduce user friction and supercharge automation.<br>With a solid foundation in **Angular, Node.js, and FastAPI**, I'm continuously exploring ways to make products smarter, faster, and more intuitive.<br><br>⚡ Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
+<p align="center">I'm a Software Developer passionate about building <b>intelligent, user-centric SaaS platforms</b> that solve real-world problems.  
+Currently working at <b>Byond Boundrys</b>, I specialize in integrating <b>GenAI tools</b> like OpenAI, LangChain, Gemini, and vector databases into scalable products to reduce user friction and supercharge automation.<br>With a solid foundation in <b>Angular, React Native, Node.js, and FastAPI</b>, I'm continuously exploring ways to make products smarter, faster, and more intuitive.<br><br>⚡Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
 
 ###
 <img align="right" alt="Coding" width="280" height="250" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
