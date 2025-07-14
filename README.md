@@ -21,7 +21,7 @@ Currently working at <b>Byond Boundrys</b>, I specialize in integrating <b><i>Ge
 
 - 🌱 I’m currently learning **React Native & Langchain**.
 
-- 👯 I’m willing to collaborate on building communities, and **GenAI Solutions** projects.
+- 👯 I’m willing to collaborate on building **GenAI Solutions**
 
 - 💬 Ask me about **GenAI**, **AI Space**  & **Travel**.
 
@@ -129,8 +129,8 @@ Currently working at <b>Byond Boundrys</b>, I specialize in integrating <b><i>Ge
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyansh-saagar&theme=buefy" alt="shreyansh-saagar" /></p>
   </div>
 <table>
-    <tr>
+<!--     <tr>
      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-saagar&hide_progress=true" alt="shreyansh-saagar" style="width:85%" /></td>
      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyansh-saagar&theme=buefy" style="width:60%" alt="shreyansh-saagar" />
-  </tr>
+  </tr> -->
 </table>
