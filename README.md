@@ -28,8 +28,7 @@ Currently working at <b>Byond Boundrys</b>, I specialize in integrating <b><i>Ge
 - 😄 Pronouns: He/Him.
 
 - 📫 How to reach me **shreyanshsaagar@gmail.com**
-- 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aKz7IOTBKU4PW7JrUJwwgXWXQY_9FV9A/view?usp=drive_link)
+
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gkXe-OVJ_NX9huAkEAuDFARxlfISM6T0/view?usp=sharing)
 
 <h3 align="left">👨🏽‍💻 Recent Works</h3>
@@ -41,6 +40,49 @@ Currently working at <b>Byond Boundrys</b>, I specialize in integrating <b><i>Ge
 </a>
 <div align="center">
 
+<div align="center">
+
+  <!-- Simplify Job Search Card -->
+  <a href="https://simplifyjobsearch.com" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://img.shields.io/badge/Simplify%20Job%20Search-AI%20Job%20Discovery%20Platform-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="Simplify Job Search" />
+  </a>
+
+  <p><strong>🌐 Simplify Job Search</strong> – An AI-powered platform that helps users find ideal jobs using ATS scoring, resume generation, and personalized job matching. Reduced job search time by up to <strong>80%</strong>.</p>
+
+  <p><strong>🔧 Tech Stack:</strong><br>
+    <img src="https://img.shields.io/badge/Angular-17-red?style=flat-square" />
+    <img src="https://img.shields.io/badge/Tailwind-CSS-38b2ac?style=flat-square" />
+    <img src="https://img.shields.io/badge/OpenAI-API-purple?style=flat-square" />
+    <img src="https://img.shields.io/badge/LangChain-Framework-black?style=flat-square" />
+    <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square" />
+  </p>
+
+  <a href="https://simplifyjobsearch.com" target="_blank">
+    🔗 <strong>View Project</strong>
+  </a>
+
+  <br /><br />
+
+  <!-- InsureAI Chatbot Card -->
+  <a href="https://insureai.byondboundrys.com" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://img.shields.io/badge/InsureAI-GenAI%20Insurance%20Assistant-brightgreen?style=for-the-badge&logo=azuredevops&logoColor=white" alt="InsureAI" />
+  </a>
+
+  <p><strong>💬 InsureAI Chatbot</strong> – A full-stack intelligent chatbot for real-time insurance support. Offers contextual document parsing, policy insights, and risk analysis powered by GenAI.</p>
+
+  <p><strong>🔧 Tech Stack:</strong><br>
+    <img src="https://img.shields.io/badge/React-UI-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square" />
+    <img src="https://img.shields.io/badge/Azure%20OpenAI-LLM-007FFF?style=flat-square" />
+    <img src="https://img.shields.io/badge/LangChain-RAG%20Pipeline-black?style=flat-square" />
+    <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square" />
+  </p>
+
+  <a href="https://insureai.byondboundrys.com" target="_blank">
+    🔗 <strong>View Project</strong>
+  </a>
+
+</div>
 
 ###
 
