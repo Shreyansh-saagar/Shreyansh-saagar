@@ -9,26 +9,28 @@
 
 ###
 
-<p align="center">I'm a Software Developer passionate about building <b>intelligent, user-centric SaaS platforms</b> that solve real-world problems.  
-Currently working at <b>Byond Boundrys</b>, I specialize in integrating <b>GenAI tools</b> like OpenAI, LangChain, Gemini, and vector databases into scalable products to reduce user friction and supercharge automation.<br>With a solid foundation in <b>Angular, React Native, Node.js, and FastAPI</b>, I'm continuously exploring ways to make products smarter, faster, and more intuitive.<br><br>⚡Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
+<p align="center">I'm a Software Developer passionate about building <b><i>intelligent, user-centric SaaS platforms</i></b> that solve real-world problems.  
+Currently working at <b>Byond Boundrys</b>, I specialize in integrating <b><i>GenAI tools</i></b> like OpenAI, LangChain, Gemini, and vector databases into scalable products to reduce user friction and supercharge automation. With a solid foundation in <b><i>Angular, React Native, Node.js, and FastAPI</i></b>, I'm continuously exploring ways to make products smarter, faster, and more intuitive.
+<br><br>⚡Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</p>
 
 ###
 <img align="right" alt="Coding" width="280" height="250" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
 
 
-- 🔭 I’m currently working on **MERN** projects.
+- 🔭 I’m currently working on **GenAI & React Native** projects.
 
-- 🌱 I’m currently learning **Node.js**.
+- 🌱 I’m currently learning **React Native & Langchain**.
 
-- 👯 I’m willing to collaborate on building communities, and **open-source** projects.
+- 👯 I’m willing to collaborate on building communities, and **GenAI Solutions** projects.
 
-- 💬 Ask me about **UI-UX** & **WEB-DEV**.
+- 💬 Ask me about **GenAI**, **AI Space**  & **Travel**.
 
 - 😄 Pronouns: He/Him.
 
 - 📫 How to reach me **shreyanshsaagar@gmail.com**
-
+- 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aKz7IOTBKU4PW7JrUJwwgXWXQY_9FV9A/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gkXe-OVJ_NX9huAkEAuDFARxlfISM6T0/view?usp=sharing)
 
 <h3 align="left">👨🏽‍💻 Recent Works</h3>
 <a href="https://github.com/Shreyansh-saagar/Shrey-Cars-Cruise-Your-Dream" target="_blank">
